@@ -64,7 +64,7 @@
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
 | DongYuTvWeb | v1.0.18 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
-| VsTV | v2.4.9 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
+| VsTV | v2.5.10 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
 | 茱元游戏TV              | v2.9.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茱元游戏TV-2.9.3.apk) | 🟢    | 支持搜索想玩的游戏，下载速度极快，连接手柄就可以轻松畅玩，万款海量游戏终身永久免费玩，让你瞬间回到街机时代的欢乐时光。 |
@@ -109,7 +109,7 @@
 | TG音乐台                | v7.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/TG音乐台-TV7.0本地版-游魂网络.apk) | 🟢    | TVBox壳本地版内置10万+音乐/MV资源                            |
 | 贝乐虎儿歌 | v6.6.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/贝乐虎儿歌电视_6.6.0.apk) | 🔴 | 专为安卓智能电视打造的儿歌应用，种类非常丰富。**目前无法获取数据** |
 | Myyy | v2.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/Myyy_TV端2.0.0.apk) | 🟢 | 电视版的多源音乐播放器 |
-| WebHomeTV | v260702 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
+| WebHomeTV | v260705 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
 | PickTV | v1.0.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PickTV) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
