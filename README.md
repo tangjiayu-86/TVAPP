@@ -10,7 +10,7 @@
 
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| TVBox                   | 20260701 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
+| TVBox                   | 20260709 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
 | 影视仓                  | v6.2.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓-v6.2.2-32位.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
@@ -26,7 +26,7 @@
 | 七星影仓V3              | v3.0.35     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓-V3版-安卓4.x系统专用(点配置点确定).apk) | 🟢    | 天微大佬基于影视仓V3稳定版内置接口源，内置点配置点确定。兼容安卓4.4以下 |
 | 小苹果影视              | v1.6.2     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/小苹果影视盒子-release-1.6.2.apk) | 🟢    | 内置上百线路资源。免输入接口，安装即用                       |
 | 及时雨影视 | v1.0.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/JSYBOX-release1.0.8.apk) | 🟢 | 同小苹果TV作者，在其基础上新增缓存下载功能，对各种源的资源能播即能缓存下载 |
-| 好好看TV版              | v1.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/好好看_TV_1.1.2.apk) | 🟢    | 网飞猫同一系列，纯净无广告。汇集了Netflix、电影、短剧、剧集、动漫、综艺等资源，各大平台资源同步更新，内置多条超清、蓝光、优质等线路，支持投屏、影评等功能 |
+| 好好看TV版              | v1.2.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/好好看/好好看TV版1.2.1-Android6.0以上.apk) | 🟢    | 网飞猫同一系列，纯净无广告。汇集了Netflix、电影、短剧、剧集、动漫、综艺等资源，各大平台资源同步更新，内置多条超清、蓝光、优质等线路，支持投屏、影评等功能 |
 | 小猫影视                | v2.6.0-1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/小猫影视) | 🟢    | 小猫影视是一款全平台(Android、Windows、Macos、iOS、Linux)的影视播放器, 支持 VOD/JS 扩展源。 |
 | Cinetry | v0.8.3 | [下载](/影视/Cinetry/README.md) | 🟢 | Cinetry 是一款专为影音爱好者打造的本地客户端播放器，全平台覆盖 |
 | uz影视 | v1.6.76 | [下载](/影视/uz影视/README.md) | 🟢 | 追剧、直播、无广、投屏、免费。 **iOS & Android & Win & Mac** |
