@@ -49,7 +49,7 @@
 | 金调KTV | v20260520 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金调KTV_20260520-去引流.apk) | 🟢 | 同上都是一个类型的软件，去除引流版 |
 | 我的电视                | v1.3.9.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/ourTV_3.9.5.apk) | 🔴    | **开发者收到制裁，已停止转播电视信号**                       |
-| 酷9直播                 | v1.7.7.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9直播) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿。具体看文件夹说明 |
+| 酷9直播                 | v2.0.4 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9直播) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿。具体看文件夹说明 |
 | HTV直播                 | v5.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-v5.1.0.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源，**内置咪咕源** |
 | 小飞电视                | v2.9.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/xiaofeitv-2.9.0.apk) | 🟢    | 小飞电视app是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。 |
 | 千寻直播                | v1.1.5     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻TV_1.1.5.apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
@@ -112,7 +112,7 @@
 | WebHomeTV | v260712 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
-| PickTV | v1.0.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PickTV) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
+| PeekPro | v1.3.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
 | ...updating             |             |                                                              |      |                                                              |
 
 ## 接口源 🌟
